@@ -3,16 +3,16 @@ This project builds a robust API for managing library resources in Go. Utilizing
 
 Features:
 
-  CRUD Operations: Create, Read, Update, and Delete book data.
-  Browse Books: Get a list of all available books in the library.
-  Access Individual Books: Retrieve details of a specific book using its unique identifier.
-  Manage Borrowing: Update book status to reflect borrowing and availability.
-  Scalable and Efficient: Built with Go and Gofr for a robust and performant API.
+    CRUD Operations: Create, Read, Update, and Delete book data.
+    Browse Books: Get a list of all available books in the library.
+    Access Individual Books: Retrieve details of a specific book using its unique identifier.
+    Manage Borrowing: Update book status to reflect borrowing and availability.
+    Scalable and Efficient: Built with Go and Gofr for a robust and performant API.
 
 Getting Started:
 
-  Clone the repository: git clone https://github.com/prathambhargava/ZopsmartProject.git
-  Install dependencies: go get gofr.dev
-  Install dependencies: go get gofr.dev/pkg/gofr
-  Run the server: go run main.go
-  Test the API: Use tools like Postman or curl to send HTTP requests to your local server (default port: 8080).
+    Clone the repository: git clone https://github.com/prathambhargava/ZopsmartProject.git
+    Install dependencies: go get gofr.dev
+    Install dependencies: go get gofr.dev/pkg/gofr
+    Run the server: go run main.go
+    Test the API: Use tools like Postman or curl to send HTTP requests to your local server (default port: 8080).
